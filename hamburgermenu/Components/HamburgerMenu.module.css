@@ -20,7 +20,7 @@
   }
  
   .barOpen:nth-child(1) {
-    transform: rotate(45deg) translate(10px, 10px);
+    transform: rotate(45deg) translate(7px, 7px);
   }
  
   .barOpen:nth-child(2) {
@@ -28,7 +28,7 @@
   }
  
   .barOpen:nth-child(3) {
-    transform: rotate(-45deg) translate(10px, -10px);
+    transform: rotate(-45deg) translate(7px, -7px);
   }
  
   .menu {
